@@ -1,0 +1,5 @@
+#summary External sources that might help with development.
+
+  * http://wiki.creativecommons.org/Nonweb_Tagging
+  * http://wiki.creativecommons.org/MP3
+  * http://wiki.creativecommons.org/OGG
