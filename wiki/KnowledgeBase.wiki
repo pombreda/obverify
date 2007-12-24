@@ -1,8 +1,6 @@
 #summary Known Issues and their solutions
 
-= Known Issues =
-
-If you have any 
+Recommendations and solutions to known issues will be posted here.
 
 == Windows Hosts ==
   * The getID3 library requires some extra helper apps on a windows based hosting environment
